@@ -7,6 +7,7 @@ pip install -r requirements.txt
 ```
 
 <hr/>
+
 ```
 sudo apt-get install tesseract-ocr
 sudo apt-get install imagemagick
