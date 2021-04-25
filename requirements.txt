@@ -6,3 +6,4 @@ argparse
 pillow
 enchant
 textblob
+Flask
